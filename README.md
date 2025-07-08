@@ -36,7 +36,7 @@ And more.... *in future*
 
 # Installation📩
 ```shell
-git clone https://github.com/salukiDew/Gift-Buyer-Tg
+
 cd Gift-Buyer-Tg
 run.bat
 ```
@@ -44,7 +44,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/salukiDew/Gift-Buyer-Tg
+
 cd Gift-Buyer-Tg
 pip install -r requirements.txt
 python main.py
